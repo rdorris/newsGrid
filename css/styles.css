@@ -23,7 +23,7 @@
 }
 
 .wavelength-news-wrapper .img-wrapper-outer{
-    padding-top:50%;
+    padding-top:69%;
     height:0;
     position: relative;
 }
@@ -53,4 +53,22 @@
     -moz-transition: background-color 200ms ease-out;
     -o-transition: background-color 200ms ease-out;
     transition: background-color 200ms ease-out;
+}
+
+.wavelength-news-wrapper p{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.wavelength-news-wrapper .src img{
+    width: 20px;
+    height: auto;
+    padding-top: 0;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+
+.wavelength-news-wrapper i{
+    position: absolute;
+    margin-top: 2px;
 }
